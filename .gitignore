@@ -1,0 +1,184 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Concrete5 template
+application/files/*
+config/site.php
+files/cache/*
+files/tmp/*
+.htaccess
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+# .idea/modules.xml
+# .idea/*.iml
+# .idea/modules
+
+# CMake
+cmake-build-*/
+
+# Mongo Explorer plugin
+.idea/**/mongoSettings.xml
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Editor-based Rest Client
+.idea/httpRequests
+### SublimeText template
+# Cache files for Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# Workspace files are user-specific
+*.sublime-workspace
+
+# Project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using Sublime Text
+# *.sublime-project
+
+# SFTP configuration file
+sftp-config.json
+
+# Package control specific files
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
+oscrypto-ca-bundle.crt
+bh_unicode_properties.cache
+
+# Sublime-github package stores a github token in this file
+# https://packagecontrol.io/packages/sublime-github
+GitHub.sublime-settings
+### VisualStudioCode template
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/copyright/
+.idea/losc5.iml
+.idea/markdown-navigator/
+.idea/modules.xml
+.idea/vcs.xml
+application/attributes/
+application/authentication/
+application/blocks/
+application/controllers/
+application/elements/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/0f9a95e8b140a56c/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/2491622f4fa6bd2a/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/2c4b715e5071370f/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/30e423f39ffbeabe/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/37afafe658d61a10/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/3b7160bed08a4646/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/4261f8a783b96764/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/43dc8be766277064/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/57089b352e967080/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/5fef24f1197291f5/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/668ac0e16be04912/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/711f3b30c17108c3/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/7639f3ffea96f76a/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/77a0c221fd1a93f9/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/878c07f7568d9250/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/8b73baf9f3f87531/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/914ace285d82174a/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/9cb1a4054e734a95/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/a0c6b582391c19a1/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/a9820916511284f9/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/afe8d5e340df6252/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/b13d2bd54203f040/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/b47ab0fb1d56fc2e/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/b713780e83641eff/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/bd1d8a4736b08a83/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/bd551ec7112e6388/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/c98000fc26d13eab/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/ce3c923ddefc16c4/
+application/files/c
+ache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/d29f487a77f8bbb0/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/db44d60a80339966/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/db53e3f11bd65f13/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/e3c364976293eb93/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/e5d59db8c494e322/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/f60fcca5a1d4954a/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/f7f92f5ab058ed85/
+application/files/cache/overrides/1952a01898073d1e/
+application/files/incoming/
+application/jobs/
+application/mail/
+application/page_templates/
+application/single_pages/
+application/src/
+application/themes/
+application/tools/
+application/views/
+concrete/vendor/league/flysystem-cached-adapter/clover/
+concrete5-8.4.3/application/attributes/
+concrete5-8.4.3/application/authentication/
+concrete5-8.4.3/application/blocks/
+concrete5-8.4.3/application/config/
+concrete5-8.4.3/application/controllers/
+concrete5-8.4.3/application/elements/
+concrete5-8.4.3/application/jobs/
+concrete5-8.4.3/application/languages/
+concrete5-8.4.3/application/mail/
+concrete5-8.4.3/application/page_templates/
+concrete5-8.4.3/application/single_pages/
+concrete5-8.4.3/application/src/
+concrete5-8.4.3/application/themes/
+concrete5-8.4.3/application/tools/
+concrete5-8.4.3/application/views/
+concrete5-8.4.3/concrete/vendor/league/flysystem-cached-adapter/clover/
+concrete5-8.4.3/packages/
+concrete5-8.4.3/updates/
+updates/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/d97b45c254f4995a/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/de4602618fdf3359/
+application/files/cache/overrides/0fea6a13c52b4d47/25368f24b045ca84/38a865804f8fdcb6/57cd99682e939275/f089a95bd86127de/
