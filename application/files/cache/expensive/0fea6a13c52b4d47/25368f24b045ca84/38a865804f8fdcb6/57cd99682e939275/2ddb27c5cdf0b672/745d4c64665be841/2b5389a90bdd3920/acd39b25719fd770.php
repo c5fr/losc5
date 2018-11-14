@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\file\version$imagineimage@[annot]][1]/ */
 /* Type: array */
-/* Expiration: 2018-11-18T10:54:03+01:00 */
+/* Expiration: 2018-11-19T02:07:49+01:00 */
 
 
 
 $loaded = true;
-$expiration = 1542534843;
+$expiration = 1542589669;
 
 $data = array();
 
@@ -14,4 +14,4 @@ $data = array();
 $data['return'] = unserialize(base64_decode('YTowOnt9'));
 
 /* Child Type: integer */
-$data['createdOn'] = 1542119028;
+$data['createdOn'] = 1542208596;

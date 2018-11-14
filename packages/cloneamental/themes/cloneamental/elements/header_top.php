@@ -4,7 +4,9 @@
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" type="text/css" href="<?php  echo $view->getThemePath()?>/css/bootstrap-modified.css">
-    <?php  echo $html->css($view->getStylesheet('main.less'))?>
+    <?php echo $html->css($view->getStylesheet('main.less'))
+    ?>
+    <link href="<?=$view->getThemePath()?>/css/style.css"  rel='stylesheet' type='text/css'>
     <?php  Loader::element('header_required', array('pageTitle' => isset($pageTitle) ? $pageTitle : '', 'pageDescription' => isset($pageDescription) ? $pageDescription : '')); ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script>
